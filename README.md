@@ -4,7 +4,6 @@ markdown
 **SkyCast** is a modern, responsive weather application that provides real-time hyperlocal forecasts. This project was built to demonstrate proficiency in handling asynchronous API operations, state management, and professional documentation.
 
 ## 🚀 Live Demo
-[Insert your Vercel/Netlify link here]
 
 ## ✨ Key Features
 - **Real-time Data:** Fetches current temperature, humidity, and wind speed using OpenWeatherMap API.
