@@ -1,5 +1,4 @@
-markdown
-# ☁️ SkyCast: Full-Stack Weather Dashboard
+Masobela's SkyCast: Full-Stack Weather Dashboard
 
 **SkyCast** is a modern, responsive weather application that provides real-time hyperlocal forecasts. This project was built to demonstrate proficiency in handling asynchronous API operations, state management, and professional documentation.
 
